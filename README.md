@@ -1,2 +1,2 @@
 # code-sample
-This is a program that adds 30 years to the age of celebrities and reverses their names.
+This is a program that implements two classes, one that contains a field of records and another that contains constructors and member functions used to initialize and change the contents of a dynamic array. The dynamic array will contain the first name, last name, and age of random celebrities. The member functions will add 30 years to the ages of each celebrity and display their names written backwards.
